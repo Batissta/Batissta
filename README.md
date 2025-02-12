@@ -1,8 +1,9 @@
 ## 👨‍💻 Hello! I'm Francinaldo, I enjoy writing and test code!
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Nextdotjs)
 ![React.js](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Node](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=node.js)
 ![JMeter](https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apacheJMeter)
 ![K6](https://img.shields.io/badge/K6-000000?style=for-the-badge&logo=K6)
@@ -21,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/Mongodb-000000?style=for-the-badge&logo=mongodb)
 
 
-- ❤ Java, TS/JS, Node, React, K6, Quality Assurance, etc.
+- ❤ Reactjs, Nextjs, TypeScript, Node, K6, Java, Quality Assurance, Agile
 - ❤ also 🏃‍ 💻 🎶 🎮 🥋
 - 🕊 Linkedin - https://www.linkedin.com/in/francinaldobatista
 
