@@ -5,6 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Node](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=node.js)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL)
 ![JMeter](https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apacheJMeter)
 ![K6](https://img.shields.io/badge/K6-000000?style=for-the-badge&logo=K6)
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=blue)
