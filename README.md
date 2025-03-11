@@ -1,4 +1,4 @@
-## 👨‍💻 Hello! I'm Francinaldo, I enjoy writing and test code!
+## 👨‍💻 Hello! I'm Francinaldo, and i enjoy writing and testing code!
 
 <div align=center>
 
