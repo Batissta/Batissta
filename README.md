@@ -1,5 +1,7 @@
 ## 👨‍💻 Hello! I'm Francinaldo, I enjoy writing and test code!
 
+<div align=center>
+
 ![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Nextdotjs)
 ![React.js](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
@@ -22,6 +24,7 @@
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-000000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/Mongodb-000000?style=for-the-badge&logo=mongodb)
 
+</div>
 
 - ❤ Reactjs, Nextjs, TypeScript, Node, K6, Java, Quality Assurance, Agile
 - ❤ also 🏃‍ 💻 🎶 🎮 🥋
