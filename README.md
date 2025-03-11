@@ -27,8 +27,15 @@
 - ❤ also 🏃‍ 💻 🎶 🎮 🥋
 - 🕊 Linkedin - https://www.linkedin.com/in/francinaldobatista
 
+<div align=center>
+  
+
+
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=batissta&show_icons=true&theme=tokyonight)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batissta&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Batissta's GitHub Stats" />
+
+</div>
 <!--
 **Batissta/Batissta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
