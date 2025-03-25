@@ -1,7 +1,6 @@
-## 👨‍💻 Hello! I'm Francinaldo, and i enjoy writing and testing code!
-
+![](https://media.licdn.com/dms/image/v2/D4D16AQEipONCXXXrhQ/profile-displaybackgroundimage-shrink_350_1400/B4DZTbKn6kHYAg-/0/1738843783769?e=1748476800&v=beta&t=Cv028PFCt2RqxAShsWMb4T0vlwSAZGOvvRTxfbGe3u4)
 <div align=center>
-
+  
 ![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Nextdotjs)
 ![React.js](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
@@ -26,30 +25,17 @@
 
 </div>
 
-- ❤ Reactjs, Nextjs, TypeScript, Node, K6, Java, Quality Assurance, Agile
-- ❤ also 🏃‍ 💻 🎶 🎮 🥋
-- 🕊 Linkedin - https://www.linkedin.com/in/francinaldobatista
+Hey, i'm Francinaldo. Nice to meet you! I'm a node.js fullstack software developer and your best option to build your amazing ideas!<br>
+I invite you to know more about my skills and achievements on my Linkedin page! 
+- 📍 Linkedin - https://www.linkedin.com/in/francinaldobatista
+- ❤ Nextjs, Reactjs, Typescript, Nodejs, Spring Boot, RESTFul API's, GraphQL and more!
+
 
 <div align=center>
-  
-
 
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=batissta&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batissta&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Batissta's GitHub Stats" />
 
 </div>
-<!--
-**Batissta/Batissta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
