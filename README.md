@@ -34,12 +34,9 @@ I invite you to know more about my skills and achievements on my Linkedin page!
 [Youtube ->](https://youtube.com/@Francinaldob)<br>
 
 <div align=center>
-  
-![](https://github-readme-stats.vercel.app/api?username=Batissta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Batissta&theme=vue-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Batissta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batissta&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Batissta's GitHub Stats" />
+![Batissta's Stats](https://github-readme-stats.vercel.app/api?username=Batissta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![Batissta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Batissta&theme=vue-dark&hide_border=true)<br>
+![Batissta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batissta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
