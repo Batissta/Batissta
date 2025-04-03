@@ -21,7 +21,6 @@ I invite you to know more about my skills and achievements on my Linkedin page!
 <div align=center>
 
 ![Batissta's Stats](https://github-readme-stats.vercel.app/api?username=Batissta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
-![Batissta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Batissta&theme=vue-dark&hide_border=true)<br>
 ![Batissta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batissta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
