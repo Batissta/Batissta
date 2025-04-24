@@ -4,7 +4,7 @@
 
 
 Hey, i'm Francinaldo. It's nice to meet you! I'm a **`javascript fullstack software developer`** and your best option to build your amazing ideas!<br>
-I invite you to know more about my skills and achievements on my Linkedin page!
+I invite you to know more about my skills, experience and achievements on my Linkedin page!
 
 ---
   
