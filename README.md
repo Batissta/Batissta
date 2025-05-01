@@ -12,18 +12,13 @@ I invite you to know more about my skills, experience and achievements on my Lin
   
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,graphql,nodejs,express,docker,postgres,mysql,mongodb,aws,git,github,gitlab,swagger,jmeter)](https://skillicons.dev)
 
----
-
 </div>
-
-
-[Linkedin ->](https://www.linkedin.com/in/francinaldobatista)<br>
-[Youtube ->](https://youtube.com/@Francinaldob)<br>
 
 <div align=center>
 
 ![Batissta's Stats](https://github-readme-stats.vercel.app/api?username=Batissta&theme=outrun&show_icons=true&hide_border=true&count_private=true)<br>
-![Batissta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batissta&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
+[Linkedin ->](https://www.linkedin.com/in/francinaldobatista)<br>
+[Youtube ->](https://youtube.com/@Francinaldob)<br>
