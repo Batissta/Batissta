@@ -20,5 +20,5 @@ I invite you to know more about my skills, experience and achievements on my Lin
 
 </div>
 
-[Linkedin ->](https://www.linkedin.com/in/francinaldobatista)<br>
-[Youtube ->](https://youtube.com/@Francinaldob)<br>
+[Linkedin](https://www.linkedin.com/in/francinaldobatista)<br>
+[Youtube](https://youtube.com/@Francinaldob)<br>
