@@ -16,7 +16,8 @@ I invite you to know more about my skills, experience and achievements on my Lin
 
 <div align=center>
 
-![Batissta's Stats](https://github-readme-stats.vercel.app/api?username=Batissta&theme=outrun&show_icons=true&hide_border=true&count_private=true)<br>
+![Batissta's Stats](https://github-readme-stats.vercel.app/api?username=Batissta&theme=outrun&show_icons=true&hide_border=true&count_private=true)<br><br>
+![repositories](https://api.githubtrends.io/user/svg/Batissta/repos?time_range=one_year&theme=bright_lights)
 
 </div>
 
